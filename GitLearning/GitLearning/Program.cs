@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.EnterpriseServices.Internal;
 
 namespace GitLearning
 {
@@ -10,7 +7,9 @@ namespace GitLearning
     {
         static void Main(string[] args)
         {
-            
+            var publication = new Publish();
+            // just fun
+            publication.GacInstall("pathToFile");
             Console.ReadKey(true);
         }
     }
