@@ -1,5 +1,6 @@
 ﻿using System;
 using System.EnterpriseServices.Internal;
+using System.Globalization;
 
 namespace GitLearning
 {
@@ -7,9 +8,7 @@ namespace GitLearning
     {
         static void Main(string[] args)
         {
-            var publication = new Publish();
-            // just fun
-            publication.GacInstall("pathToFile");
+            Console.WriteLine(DateTime.Now.ToString(@"dddd, MMMM M\t\h yyyy", CultureInfo.CreateSpecificCulture("en-US")));
             Console.ReadKey(true);
         }
     }
