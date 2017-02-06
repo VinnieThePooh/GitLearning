@@ -1,1 +1,2 @@
- Changed
+ Changed. 
+ Added new string
