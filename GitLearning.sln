@@ -10,7 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Inb2.txt = Inb2.txt
 		ReadMe.txt = ReadMe.txt
 		Sample.html = Sample.html
+		stylesheet.css = stylesheet.css
 		test.txt = test.txt
+		todel.js = todel.js
 		xml.xml = xml.xml
 	EndProjectSection
 EndProject
