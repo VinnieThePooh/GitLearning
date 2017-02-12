@@ -1,2 +1,2 @@
 Changed.
-This modifications will be rebased in superbranch. Yeah
+This modifications will be rebased in superbranch.
