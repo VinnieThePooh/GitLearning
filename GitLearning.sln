@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLearning", "GitLearning\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4158AED8-7691-484E-BBDA-3B59A2A989F8}"
 	ProjectSection(SolutionItems) = preProject
+		bitmap.bmp = bitmap.bmp
 		Inb2.txt = Inb2.txt
 		ReadMe.txt = ReadMe.txt
 		Sample.html = Sample.html
